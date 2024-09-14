@@ -9,7 +9,7 @@
 - 👀 I’m interested in coding, gaming, learning, basketball, all sports
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- ![alt text]("D:\PBS\NET 100\WNBA.png""Basketball WNBA")
+- ![alt text]("https://frontofficesports.com/wp-content/uploads/2023/02/FOS-23-2.7-WNBA-Oakland-Expansion.jpg?quality=100""Basketball WNBA")
 
 
 <!---
